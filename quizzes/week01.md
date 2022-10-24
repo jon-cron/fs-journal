@@ -13,7 +13,7 @@ change directory
 <!-- enter you answer in the space below -->
 
 ```
-
+make directory
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
@@ -29,7 +29,7 @@ change directory
 <!-- enter you answer in the space below -->
 
 ```
-
+Hyper Text Markup Language
 ```
 
 **5.** What Does `CSS` stand for?
@@ -37,7 +37,7 @@ change directory
 <!-- enter you answer in the space below -->
 
 ```
-
+Cascading Style Sheet
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
