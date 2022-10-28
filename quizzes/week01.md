@@ -21,7 +21,7 @@ make directory
 <!-- enter you answer in the space below -->
 
 ```
-
+used to start and end html
 ```
 
 **4.** What does `HTML` stand for?
@@ -51,7 +51,7 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
-
+Selector, property, value
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
@@ -59,7 +59,7 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
-
+font-weight
 ```
 
 **8.** In what tag does the majority of your code belong?
@@ -91,5 +91,5 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
-
+margin
 ```
