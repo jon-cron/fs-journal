@@ -67,7 +67,7 @@ font-weight
 <!-- enter you answer in the space below -->
 
 ```
-
+body?
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
@@ -75,7 +75,7 @@ font-weight
 <!-- enter you answer in the space below -->
 
 ```
-
+ul (unorder list), ol (ordered list), dl (description list)
 ```
 
 **10.** Define the display `:flex property:`
@@ -83,7 +83,7 @@ font-weight
 <!-- enter you answer in the space below -->
 
 ```
-
+Increased control of page layout
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
