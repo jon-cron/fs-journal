@@ -45,7 +45,7 @@ A promise is when the developer is "promised" that an event will happen, this ca
 <!-- enter you answer in the space below -->
 
 ```
-fetch, get,
+fetch, get, request
 ```
 
 **7.** What does the `API` acronym stand for?
