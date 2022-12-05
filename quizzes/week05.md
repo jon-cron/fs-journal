@@ -56,8 +56,8 @@ get
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-async getAll(query){
-    const planets = await dbContext.Planets.find(query)
-    return planets
+async getAll(query: tag){
+    const seasons = await dbContext.seasons.find(query: tag)
+    return seasons
   }
 ```
